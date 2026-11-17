@@ -12,9 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashish-pal-0502/Ashish-pal-0502](https://github.com/Ashish-pal-0502/Ashish-pal-0502)
 
-- 📝 I regularly write articles on [https://ashishpal0502.netlify.app/](https://ashishpal0502.netlify.app/)
-
-- 💬 Ask me about **java, SQL, MySQL, git & Github, Bootstrap, HTML5, CSS, JavaScript, MongoDB, Express.js, Node.js & React.js**
+💬 Ask me about MERN Stack, Next.js, React Native, REST APIs, WebSockets & Cloud Deployment
 
 - 📫 How to reach me **ashishpal0502@gmail.com**
 
